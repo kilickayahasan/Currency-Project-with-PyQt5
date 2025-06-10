@@ -70,3 +70,9 @@ app =QApplication (sys.argv)
 pencere = Pencere ()
 
 sys.exit(app.exec_())
+
+# Contact Me
+
+hasankilickaya44@gmail.com
+
+https://github.com/kilickayahasan/kilickayahasan
