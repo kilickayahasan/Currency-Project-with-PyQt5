@@ -1,6 +1,8 @@
 # Currency-Project-with-PyQt5
 
-# This project is a robust desktop application developed using **PyQt5**, designed to provide users with real-time currency exchange rates. It allows users to effortlessly fetch and display the current conversion rates for various currency pairs (e.g., USD/TRY, EUR/USD). This tool is ideal for anyone who needs to monitor financial markets or perform quick currency conversions directly from their desktop.  
+This project is a robust desktop application developed using **PyQt5**, designed to provide users with real-time currency exchange rates. It allows users to effortlessly fetch and display the current conversion rates for various currency pairs (e.g., USD/TRY, EUR/USD). This tool is ideal for anyone who needs to monitor financial markets or perform quick currency conversions directly from their desktop.  
+
+## Project Codes
 
 import sys
 import  requests
